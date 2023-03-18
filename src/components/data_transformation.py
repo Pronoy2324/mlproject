@@ -1,4 +1,3 @@
-from src.components.data_ingestion import DataIngestion
 import pandas as pd
 import os
 import sys
